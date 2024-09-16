@@ -3,7 +3,7 @@
 
 A React-based news aggregator that provides real-time news updates from around the world.
 
-(The application was created using React Functional Component architecture)
+(The application was created using React Class Component architecture)
 ## Badges
 
 
@@ -45,7 +45,7 @@ I would like to express my gratitude to the following resources that made this p
 ![alt text](https://github.com/siddharth-ruria/newsmonkey-v2---REACT.js/blob/main/public/screenshots/three.png?raw=true)
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
+To run this project, you will need to add the following environment variables to your .env.local file (instructions given further)
 
 `REACT_APP_NEWS_API`
 
