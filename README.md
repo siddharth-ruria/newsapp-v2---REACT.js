@@ -1,9 +1,9 @@
 
-# NewsMonkey App ~ (V1) 
+# NewsMonkey App ~ (V2) 
 
 A React-based news aggregator that provides real-time news updates from around the world.
 
-(The application was created using React Class Component architecture)
+(The application was created using React Functional Component architecture)
 ## Badges
 
 
